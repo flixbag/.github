@@ -1,8 +1,8 @@
 <p align="center">
     <a href="https://www.flixbag.com">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset=".github/assets/logo-dark.svg#gh-dark-mode-only">
-            <img src=".github/assets/logo-light.svg#gh-light-mode-only" alt="FlixBag">
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flixbag/assets/refs/heads/main/assets/logo-dark.svg#gh-dark-mode-only">
+            <img src="https://raw.githubusercontent.com/flixbag/assets/refs/heads/main/assets/logo-light.svg#gh-light-mode-only" alt="FlixBag">
         </picture>
     </a>
 </p>
